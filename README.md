@@ -1,4 +1,4 @@
-# Project-3
+# Project-5
 The goal of this project is to write a script in Python to automate calculations for a W-shaped steel tension member. The script has been tested with three different scenarios, and a report has been written to be presented to the client. The client specifically requested that the report include an explanation of the functions, inputs, and outputs used to automate the calculations as well as a discussion of how the calculations were automated. It includes an explanation of how to use the functions for future employees of the client.
 
 # Files Key 
