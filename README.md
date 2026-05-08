@@ -4,11 +4,10 @@ The goal of this project is to analyze and display National Household Travel Sur
 The project team will provide a simulation study using the Intelligent Driver Model (IDM) and create a visualization of the data from that simulation. The simulation will be done using the NGSIM data previously mentioned.  
 
 # Files Key 
+SOW - Scope of work written for this project
 ACD - Annotated Code Document  
 Code - Jupyter Notebook containing the code used to analyze and plot the data used in the project  
 Gantt Chart - Gantt Chart for this project  
 Report - Comprehensive report over this project  
-SOW - Scope of work written for this project
 Timesheet - Timesheet documenting time spent working on this project  
-NGSIM(in) - NGSIM data used in this project  
-NHTS(in) - NHTS data used in this project  
+Table5-1.csv - Table containing steel beam data used by the code
