@@ -1,7 +1,5 @@
 # Project-3
-The goal of this project is to analyze and display National Household Travel Survey (NHTS) and Next Generation Simulation (NGSIM) data provided by the client using Python. The project team will create five graphs analyzing relevant variables in the data using Python. There should be one bar chart comparing categories within a specific variable, one histogram showing the distribution of a specific variable, one boxplot showing the distribution of a variable in each category, and two different time-series plots showing and analyzing driving behavior. The first three listed graphs will use NHTS data, while the last two will use NGSIM data.  
-
-The project team will provide a simulation study using the Intelligent Driver Model (IDM) and create a visualization of the data from that simulation. The simulation will be done using the NGSIM data previously mentioned.  
+The goal of this project is to write a script in Python to automate calculations for a W-shaped steel tension member. The script has been tested with three different scenarios, and a report has been written to be presented to the client. The client specifically requested that the report include an explanation of the functions, inputs, and outputs used to automate the calculations as well as a discussion of how the calculations were automated. It includes an explanation of how to use the functions for future employees of the client.
 
 # Files Key 
 SOW - Scope of work written for this project
